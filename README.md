@@ -2,7 +2,7 @@
 
 ## This project aims to code a C library.
 
-By adding custom fuction is your library you are making sure you never have to overwrite them when you need it !
+A library is a very handy tool which will follow you throughout all your coding career. You can litteraly view it as a book containing all sorts of usefull function you can acces whenever you want. Pretty handy don't you think ? By adding custom fuction is your library you are making sure you never have to overwrite them when you need it !
 It is also a good idea to keep adding basic functions in it in order to make your own library as powerfull as possible.
 You will be able to use your custom libft library in other projects so make sure to make it as strong as possible because it is a powerfull toolkit.
 
@@ -64,6 +64,8 @@ Here's the link to the original testers :
 
 ⛔️ Be sure to check how to use them aswell as how you must settup your repository to make it work ! ⛔️
 
-Well that's evrything you must know in order to validate your first project ! There is a lot of small easy functions to code so depending on your skill this might be faster to make. This project is estimated to take about 70 hours which I think is completely doable for everybody.
+Well that's everything you must know in order to validate your first project ! There is a lot of small easy functions to code so depending on your skill this might be faster to make. This project is estimated to take about 70 hours which I think is completely doable for everybody.
+
+So good luck homie !
 
 WIP
