@@ -58,9 +58,9 @@ Of course I will be providing some tester in order to check if your project work
 
 Here's the link to the original testers :
 
--
--
--
+-	https://github.com/Tripouille/libftTester
+-	https://github.com/alelievr/libft-unit-test
+-	https://github.com/jtoty/Libftest
 
 ⛔️ Be sure to check how to use them aswell as how you must settup your repository to make it work ! ⛔️
 
