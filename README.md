@@ -2,8 +2,11 @@
 
 ## This project aims to code a C library.
 
-A library is a very handy tool which will follow you throughout all your coding career. You can litteraly view it as a book containing all sorts of usefull function you can acces whenever you want. Pretty handy don't you think ? By adding custom fuction is your library you are making sure you never have to overwrite them when you need it !
+A library is a very handy tool which will follow you throughout all your coding career. You can litteraly view it as a book containing all sorts of usefull function you can acces whenever you want. 
+
+Pretty handy don't you think ? By adding custom fuction is your library you are making sure you never have to overwrite them when you need it !
 It is also a good idea to keep adding basic functions in it in order to make your own library as powerfull as possible.
+
 You will be able to use your custom libft library in other projects so make sure to make it as strong as possible because it is a powerfull toolkit.
 
 <hr />
@@ -23,7 +26,9 @@ If that was too easy already let's go to the project.
 
 You will need to recode some existing functions from the libc library.
 In order to validate the project you will have to use the same prototype as the original function prefixed by "ft_"
+
 Looking up the protype aswell as the fucntion description and returns values in the manual is a must. All of the libc function are listed and explained in the manual so make sure it becomes your best friend as it will be your best informations source.
+
 In case you are feeling lazy I have written a small description of each functions in my files aswell as some comments to better understand why I did some "weird" things that wouldn't be obvious at first sight.
 
 ⛔️ In order for you to get the most out of this project try to do it alone as much as prossible. ⛔️
@@ -33,6 +38,7 @@ What I mean by that is to look at other's code only when you are completely stuc
 ### 2. Some more advanced functions
 
 In this part the functions that you will come across are bit more challenging than the first ones (you might need multiple functions to make the main work). Not every functions of this part can be found in the manual so pay close attention to the subject PDF for this part. Once again I have some basic descriptions in my files if you need them. (But be sure to try it out self first !)
+
 Note that in this part you're allowed to use some existing function to make yours work as write(), malloc() and free().
 
 ### 3. Bonus part
