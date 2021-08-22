@@ -1,4 +1,4 @@
-### 📕 --- 42 LIBFT PROJECT --- 📕
+# 📕 --- 42 LIBFT PROJECT --- 📕
 
 ## This project aims to code a C library.
 
@@ -19,7 +19,7 @@ In case you are still struggling with those (I know I did), here's some document
 
 If that was too easy already let's go to the project.
 
-# 1. The libc functions
+### 1. The libc functions
 
 You will need to recode some existing functions from the libc library.
 In order to validate the project you will have to use the same prototype as the original function prefixed by "ft_"
@@ -30,12 +30,12 @@ In case you are feeling lazy I have written a small description of each function
 
 What I mean by that is to look at other's code only when you are completely stuck. Learning by making your own mistakes is the best way to learn and to remember every concepts deeply.
 
-# 2. Some more advanced functions
+### 2. Some more advanced functions
 
 In this part the functions that you will come across are bit more challenging than the first ones (you might need multiple functions to make the main work). Not every functions of this part can be found in the manual so pay close attention to the subject PDF for this part. Once again I have some basic descriptions in my files if you need them. (But be sure to try it out self first !)
 Note that in this part you're allowed to use some existing function to make yours work as write(), malloc() and free().
 
-# 3. Bonus part
+### 3. Bonus part
 
 Of course you don't have to do the bonuses but I highly recommend you to do them as they are not that difficult, gives your project more XP and blackhole, and learn you some new concepts that will be VERY VERY usefull for the rest of 42's cursus. (The next project already asks you to know them)
 
