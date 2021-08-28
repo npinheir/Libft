@@ -16,9 +16,9 @@ You will be able to use your custom libft library in other projects so make sure
 First of all be sure to know how to make a Makefile aswell as a .h file. This should be the case if you finished the piscine.
 In case you are still struggling with those (I know I did), here's some documentation and tutorials which helped me :
 
--
--
--
+-	https://www.youtube.com/watch?v=-riHEHGP2DU&t=2420s
+-	https://www.youtube.com/watch?v=u1e0gLoz1SU&t=543s
+-	https://makefiletutorial.com
 
 If that was too easy already let's go to the project.
 
@@ -48,9 +48,8 @@ Of course you don't have to do the bonuses but I highly recommend you to do them
 To make it work you will need to declare a specific structure in your .h file. You got it, the bonus is all about structures and linked lists !
 Here's some tutorials about how they works if it is new to you :
 
--
--
--
+-	https://www.youtube.com/watch?v=VOpjAHCee7c&t=649s
+-	https://www.youtube.com/watch?v=vcQIFT79_50
 
 <hr />
 
@@ -67,6 +66,7 @@ Here's the link to the original testers :
 -	https://github.com/Tripouille/libftTester
 -	https://github.com/alelievr/libft-unit-test
 -	https://github.com/jtoty/Libftest
+-	https://github.com/Ysoroko/FT_SPLIT_TESTER (Usefull ft_split tester)
 
 ⛔️ Be sure to check how to use them aswell as how you must settup your repository to make it work ! ⛔️
 
@@ -74,4 +74,4 @@ Well that's everything you must know in order to validate your first project ! T
 
 So good luck homie !
 
-WIP
+Feel free to send me a nessage if encountering any problems in my code ! 😄
